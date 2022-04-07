@@ -14,7 +14,7 @@ function del($a,$b){
 
 function mathOperation($arg1, $arg2, $operation){
     switch($operation){
-        case "raznitsa":
+        case "razn":
             return razn($arg1, $arg2);;
         case "sum":
             return    sum($arg1, $arg2);
