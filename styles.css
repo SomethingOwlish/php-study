@@ -1,0 +1,17 @@
+h1 { font-size: 62px; }
+
+.greenH {color: chartreuse}
+
+.blueButton {
+    width: 300px;
+}
+
+body{
+    background-color: grey;
+}
+div{
+    line-height: inherit;
+}
+p {
+    text-align: center;
+}
