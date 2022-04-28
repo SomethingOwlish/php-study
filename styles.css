@@ -1,17 +1,47 @@
-h1 { font-size: 62px; }
+.firstLess {align-items: center;
 
-.greenH {color: chartreuse}
 
-.blueButton {
-    width: 300px;
 }
 
 body{
     background-color: grey;
+
 }
-div{
-    line-height: inherit;
-}
-p {
+h2{position: static;
+    width: 730px;
+    height: 128px;
+    left: 0;
+    top: 0;
+
     text-align: center;
+    color: #0B0D17;}
+
+.greenH{
+    color: chartreuse;
 }
+.time{
+    color: #FFFFFF;
+    background-color: darkgreen;
+}
+.block {
+    text-align: center;
+    background-color: lavender;
+    border: 15px darkmagenta;
+}
+
+.firstCol {
+    width: 10%;
+    position: absolute;
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 0;
+}
+.SecondCol {
+    width: 20%;
+    position: absolute;
+    text-align: left;
+
+margin-left: 15%;
+    margin-top: 0;
+}
+
